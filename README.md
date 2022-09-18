@@ -1,7 +1,6 @@
 # Project Name
 
 #cash-register
-cash register in vanilla JS
 
 ## Contributing
 
